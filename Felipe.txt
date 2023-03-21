@@ -1,3 +1,3 @@
-vou criar um sistemas para mapeamento des vagas de estacionamento 
-com algoritmos de visão computacional e IA, para ajudar os condutor a estacionar 
-com facilidade
+criar um sistema de gerenciamento de cardapios, que link as comandas geradas 
+pelo cliente diretamente para a cozinha.
+também com vai ser capaz de somar a conta e disponibilar para cliente fazer o pagamento .
