@@ -1,0 +1,10 @@
+Como um Empresário quero um aplicativo para gerenciar com mais 
+efetividade meus estacionamentos. Para evitar perdas no lucro devido 
+a má gestão.
+
+
+Para resolver esse problema seria necessário desenvolver um sistema que reunisse em suas funcionalidades
+o gerencimanto dos carros que adentraram no estacionamento, guardando as informações da data, hora de entrada e a hora da saída.
+O sistema também deve retornar a quantidade de carros no estacionamento e a quantidade de vagas disponíveis.
+
+
