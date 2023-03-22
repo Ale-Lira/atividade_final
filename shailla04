@@ -1,0 +1,6 @@
+Eu como coordenador pedagógico eu quero um sistema que registre e mostre as notas de todos os alunos. 
+Para que assim seja possível medir o desempenho de todos os alunos.
+
+
+Para resolver esse problema é necessário um sistema com um banco de dados para guardar as informações fornecidas pelos professores, 
+guardando nome dos alunos, turma na qual está, notas por diciplinas e um gráfico de seu desempenho ao decorrer do tempo.
