@@ -1,0 +1,12 @@
+Eu como Coordenador pedagógico eu quero um sistemas que 
+apresente o numero de alunos desistentes e transferidos.
+Para fazer o controle de alunos matriculados
+
+
+Eu faria um sistema que quandoo o aluno se matriculasse ele 
+fosse adicionado no sistema, quando atinguisse 25% das faltas 
+o sistema desse uma notificação e o aluno teria a opção de continuar
+ou ser desistente, o que faria ele sair do sistema,
+e se ele fosse transferido ele também sairia do sistema. 
+E deveria ter uma justificativa anexada no sistema pra controle,
+caso desistencia/transferencia.
